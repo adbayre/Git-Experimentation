@@ -1,1 +1,1 @@
-Mon exercice de branche Git par Maxime Gruez.
+Contribution de Maxime Gruez pour le TD Git.
